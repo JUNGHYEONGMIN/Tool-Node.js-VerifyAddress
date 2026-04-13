@@ -34,6 +34,12 @@ export const DETAIL_KEY_MAPPING = {
   'BASE-USDC': 'ETH',
   'USDT-BEP20': 'ETH',
   'USDT-Morpho': 'ETH',
+  'Morpho-ETH': 'ETH',
+  'spUSDC-ERC20': 'ETH',
+  'spUSDT-ERC20': 'ETH',
+  'BEP20-U': 'ETH',
+  'STEAK-U': 'ETH',
+  'ERC20-DAI': 'ETH',
 
   TRX: 'TRX',
   'USDT-TRC20': 'TRX',
