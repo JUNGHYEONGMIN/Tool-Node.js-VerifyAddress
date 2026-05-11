@@ -40,6 +40,9 @@ export const DETAIL_KEY_MAPPING = {
   'BEP20-U': 'ETH',
   'STEAK-U': 'ETH',
   'ERC20-DAI': 'ETH',
+  'BEP20-ListaU': 'ETH',
+  'ERC20-USDD': 'ETH',
+  'ERC20-USDS': 'ETH',
 
   TRX: 'TRX',
   'USDT-TRC20': 'TRX',
@@ -49,6 +52,8 @@ export const DETAIL_KEY_MAPPING = {
   jsTRX: 'TRX',
   'jUSDT-TRC20': 'TRX',
   'jWBTC-TRC20': 'TRX',
+  'TRC20-USDD': 'TRX',
+  'TRC20-JUSDD': 'TRX',
 
   SOL: 'SOL',
   'USDT-SOL': 'SOL',
